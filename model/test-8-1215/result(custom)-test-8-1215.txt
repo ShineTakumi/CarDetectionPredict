@@ -1,0 +1,553 @@
+# Result of Custom Dataset Validation
+
+----------------------------------------------------------------
+## No.1: evaluation/original/labels.csv
+
+Accuracy: 19.35 %
+
+Details: 
+original-0: 7
+original-1: 7
+original-2: 7
+original-3: 7
+original-4: 7
+original-5: 7
+original-6: 7
+original-7: 7
+original-8: 7
+original-9: 7
+original-10: 7
+original-11: 7
+original-12: 7
+original-13: 7
+original-14: 7
+original-15: 7
+original-16: 7
+original-17: 7
+original-18: 7
+original-19: 7
+original-20: 7
+original-21: 7
+original-22: 7
+original-23: 7
+original-24: 7
+original-25: 7
+original-26: 7
+original-27: 7
+original-28: 7
+original-29: 7
+original-30: 7
+original-31: 7
+original-32: 7
+original-33: 7
+original-34: 7
+original-35: 7
+original-36: 7
+original-37: 7
+original-38: 7
+original-39: 7
+original-40: 7
+original-41: 7
+original-42: 7
+original-43: 7
+original-44: 7
+original-45: 7
+original-46: 7
+original-47: 7
+original-48: 7
+original-49: 7
+original-50: 7
+original-51: 7
+original-52: 7
+original-53: 7
+original-54: 7
+original-55: 7
+original-56: 7
+original-57: 7
+original-58: 7
+original-59: 7
+original-60: 7
+original-61: 7
+
+----------------------------------------------------------------
+## No.2: evaluation/original-flip/labels.csv
+
+Accuracy: 19.35 %
+
+Details: 
+original-flip-0: 7
+original-flip-1: 7
+original-flip-2: 7
+original-flip-3: 7
+original-flip-4: 7
+original-flip-5: 7
+original-flip-6: 7
+original-flip-7: 7
+original-flip-8: 7
+original-flip-9: 7
+original-flip-10: 7
+original-flip-11: 7
+original-flip-12: 7
+original-flip-13: 7
+original-flip-14: 7
+original-flip-15: 7
+original-flip-16: 7
+original-flip-17: 7
+original-flip-18: 7
+original-flip-19: 7
+original-flip-20: 7
+original-flip-21: 7
+original-flip-22: 7
+original-flip-23: 7
+original-flip-24: 7
+original-flip-25: 7
+original-flip-26: 7
+original-flip-27: 7
+original-flip-28: 7
+original-flip-29: 7
+original-flip-30: 7
+original-flip-31: 7
+original-flip-32: 7
+original-flip-33: 7
+original-flip-34: 7
+original-flip-35: 7
+original-flip-36: 7
+original-flip-37: 7
+original-flip-38: 7
+original-flip-39: 7
+original-flip-40: 7
+original-flip-41: 7
+original-flip-42: 7
+original-flip-43: 7
+original-flip-44: 7
+original-flip-45: 7
+original-flip-46: 7
+original-flip-47: 7
+original-flip-48: 7
+original-flip-49: 7
+original-flip-50: 7
+original-flip-51: 7
+original-flip-52: 7
+original-flip-53: 7
+original-flip-54: 7
+original-flip-55: 7
+original-flip-56: 7
+original-flip-57: 7
+original-flip-58: 7
+original-flip-59: 7
+original-flip-60: 7
+original-flip-61: 7
+
+----------------------------------------------------------------
+## No.3: evaluation/sunset/labels.csv
+
+Accuracy: 19.35 %
+
+Details: 
+sunset-0: 7
+sunset-1: 7
+sunset-2: 7
+sunset-3: 7
+sunset-4: 7
+sunset-5: 7
+sunset-6: 7
+sunset-7: 7
+sunset-8: 7
+sunset-9: 7
+sunset-10: 7
+sunset-11: 7
+sunset-12: 7
+sunset-13: 7
+sunset-14: 7
+sunset-15: 7
+sunset-16: 7
+sunset-17: 7
+sunset-18: 7
+sunset-19: 7
+sunset-20: 7
+sunset-21: 7
+sunset-22: 7
+sunset-23: 7
+sunset-24: 7
+sunset-25: 7
+sunset-26: 7
+sunset-27: 7
+sunset-28: 7
+sunset-29: 7
+sunset-30: 7
+sunset-31: 7
+sunset-32: 7
+sunset-33: 7
+sunset-34: 7
+sunset-35: 7
+sunset-36: 7
+sunset-37: 7
+sunset-38: 7
+sunset-39: 7
+sunset-40: 7
+sunset-41: 7
+sunset-42: 7
+sunset-43: 7
+sunset-44: 7
+sunset-45: 7
+sunset-46: 7
+sunset-47: 7
+sunset-48: 7
+sunset-49: 7
+sunset-50: 7
+sunset-51: 7
+sunset-52: 7
+sunset-53: 7
+sunset-54: 7
+sunset-55: 7
+sunset-56: 7
+sunset-57: 7
+sunset-58: 7
+sunset-59: 7
+sunset-60: 7
+sunset-61: 7
+
+----------------------------------------------------------------
+## No.4: evaluation/sunset-flip/labels.csv
+
+Accuracy: 19.35 %
+
+Details: 
+sunset-flip-0: 7
+sunset-flip-1: 7
+sunset-flip-2: 7
+sunset-flip-3: 7
+sunset-flip-4: 7
+sunset-flip-5: 7
+sunset-flip-6: 7
+sunset-flip-7: 7
+sunset-flip-8: 7
+sunset-flip-9: 7
+sunset-flip-10: 7
+sunset-flip-11: 7
+sunset-flip-12: 7
+sunset-flip-13: 7
+sunset-flip-14: 7
+sunset-flip-15: 7
+sunset-flip-16: 7
+sunset-flip-17: 7
+sunset-flip-18: 7
+sunset-flip-19: 7
+sunset-flip-20: 7
+sunset-flip-21: 7
+sunset-flip-22: 7
+sunset-flip-23: 7
+sunset-flip-24: 7
+sunset-flip-25: 7
+sunset-flip-26: 7
+sunset-flip-27: 7
+sunset-flip-28: 7
+sunset-flip-29: 7
+sunset-flip-30: 7
+sunset-flip-31: 7
+sunset-flip-32: 7
+sunset-flip-33: 7
+sunset-flip-34: 7
+sunset-flip-35: 7
+sunset-flip-36: 7
+sunset-flip-37: 7
+sunset-flip-38: 7
+sunset-flip-39: 7
+sunset-flip-40: 7
+sunset-flip-41: 7
+sunset-flip-42: 7
+sunset-flip-43: 7
+sunset-flip-44: 7
+sunset-flip-45: 7
+sunset-flip-46: 7
+sunset-flip-47: 7
+sunset-flip-48: 7
+sunset-flip-49: 7
+sunset-flip-50: 7
+sunset-flip-51: 7
+sunset-flip-52: 7
+sunset-flip-53: 7
+sunset-flip-54: 7
+sunset-flip-55: 7
+sunset-flip-56: 7
+sunset-flip-57: 7
+sunset-flip-58: 7
+sunset-flip-59: 7
+sunset-flip-60: 7
+sunset-flip-61: 7
+
+----------------------------------------------------------------
+## No.5: evaluation/night/labels.csv
+
+Accuracy: 19.35 %
+
+Details: 
+night-0: 7
+night-1: 7
+night-2: 7
+night-3: 7
+night-4: 7
+night-5: 7
+night-6: 7
+night-7: 7
+night-8: 7
+night-9: 7
+night-10: 7
+night-11: 7
+night-12: 7
+night-13: 7
+night-14: 7
+night-15: 7
+night-16: 7
+night-17: 7
+night-18: 7
+night-19: 7
+night-20: 7
+night-21: 7
+night-22: 7
+night-23: 7
+night-24: 7
+night-25: 7
+night-26: 7
+night-27: 7
+night-28: 7
+night-29: 7
+night-30: 7
+night-31: 7
+night-32: 7
+night-33: 7
+night-34: 7
+night-35: 7
+night-36: 7
+night-37: 7
+night-38: 7
+night-39: 7
+night-40: 7
+night-41: 7
+night-42: 7
+night-43: 7
+night-44: 7
+night-45: 7
+night-46: 7
+night-47: 7
+night-48: 7
+night-49: 7
+night-50: 7
+night-51: 7
+night-52: 7
+night-53: 7
+night-54: 7
+night-55: 7
+night-56: 7
+night-57: 7
+night-58: 7
+night-59: 7
+night-60: 7
+night-61: 7
+
+----------------------------------------------------------------
+## No.6: evaluation/night-flip/labels.csv
+
+Accuracy: 19.35 %
+
+Details: 
+night-flip-0: 7
+night-flip-1: 7
+night-flip-2: 7
+night-flip-3: 7
+night-flip-4: 7
+night-flip-5: 7
+night-flip-6: 7
+night-flip-7: 7
+night-flip-8: 7
+night-flip-9: 7
+night-flip-10: 7
+night-flip-11: 7
+night-flip-12: 7
+night-flip-13: 7
+night-flip-14: 7
+night-flip-15: 7
+night-flip-16: 7
+night-flip-17: 7
+night-flip-18: 7
+night-flip-19: 7
+night-flip-20: 7
+night-flip-21: 7
+night-flip-22: 7
+night-flip-23: 7
+night-flip-24: 7
+night-flip-25: 7
+night-flip-26: 7
+night-flip-27: 7
+night-flip-28: 7
+night-flip-29: 7
+night-flip-30: 7
+night-flip-31: 7
+night-flip-32: 7
+night-flip-33: 7
+night-flip-34: 7
+night-flip-35: 7
+night-flip-36: 7
+night-flip-37: 7
+night-flip-38: 7
+night-flip-39: 7
+night-flip-40: 7
+night-flip-41: 7
+night-flip-42: 7
+night-flip-43: 7
+night-flip-44: 7
+night-flip-45: 7
+night-flip-46: 7
+night-flip-47: 7
+night-flip-48: 7
+night-flip-49: 7
+night-flip-50: 7
+night-flip-51: 7
+night-flip-52: 7
+night-flip-53: 7
+night-flip-54: 7
+night-flip-55: 7
+night-flip-56: 7
+night-flip-57: 7
+night-flip-58: 7
+night-flip-59: 7
+night-flip-60: 7
+night-flip-61: 7
+
+----------------------------------------------------------------
+## No.7: evaluation/blur/labels.csv
+
+Accuracy: 19.35 %
+
+Details: 
+blur-0: 7
+blur-1: 7
+blur-2: 7
+blur-3: 7
+blur-4: 7
+blur-5: 7
+blur-6: 7
+blur-7: 7
+blur-8: 7
+blur-9: 7
+blur-10: 7
+blur-11: 7
+blur-12: 7
+blur-13: 7
+blur-14: 7
+blur-15: 7
+blur-16: 7
+blur-17: 7
+blur-18: 7
+blur-19: 7
+blur-20: 7
+blur-21: 7
+blur-22: 7
+blur-23: 7
+blur-24: 7
+blur-25: 7
+blur-26: 7
+blur-27: 7
+blur-28: 7
+blur-29: 7
+blur-30: 7
+blur-31: 7
+blur-32: 7
+blur-33: 7
+blur-34: 7
+blur-35: 7
+blur-36: 7
+blur-37: 7
+blur-38: 7
+blur-39: 7
+blur-40: 7
+blur-41: 7
+blur-42: 7
+blur-43: 7
+blur-44: 7
+blur-45: 7
+blur-46: 7
+blur-47: 7
+blur-48: 7
+blur-49: 7
+blur-50: 7
+blur-51: 7
+blur-52: 7
+blur-53: 7
+blur-54: 7
+blur-55: 7
+blur-56: 7
+blur-57: 7
+blur-58: 7
+blur-59: 7
+blur-60: 7
+blur-61: 7
+
+----------------------------------------------------------------
+## No.8: evaluation/blur-flip/labels.csv
+
+Accuracy: 19.35 %
+
+Details: 
+blur-flip-0: 7
+blur-flip-1: 7
+blur-flip-2: 7
+blur-flip-3: 7
+blur-flip-4: 7
+blur-flip-5: 7
+blur-flip-6: 7
+blur-flip-7: 7
+blur-flip-8: 7
+blur-flip-9: 7
+blur-flip-10: 7
+blur-flip-11: 7
+blur-flip-12: 7
+blur-flip-13: 7
+blur-flip-14: 7
+blur-flip-15: 7
+blur-flip-16: 7
+blur-flip-17: 7
+blur-flip-18: 7
+blur-flip-19: 7
+blur-flip-20: 7
+blur-flip-21: 7
+blur-flip-22: 7
+blur-flip-23: 7
+blur-flip-24: 7
+blur-flip-25: 7
+blur-flip-26: 7
+blur-flip-27: 7
+blur-flip-28: 7
+blur-flip-29: 7
+blur-flip-30: 7
+blur-flip-31: 7
+blur-flip-32: 7
+blur-flip-33: 7
+blur-flip-34: 7
+blur-flip-35: 7
+blur-flip-36: 7
+blur-flip-37: 7
+blur-flip-38: 7
+blur-flip-39: 7
+blur-flip-40: 7
+blur-flip-41: 7
+blur-flip-42: 7
+blur-flip-43: 7
+blur-flip-44: 7
+blur-flip-45: 7
+blur-flip-46: 7
+blur-flip-47: 7
+blur-flip-48: 7
+blur-flip-49: 7
+blur-flip-50: 7
+blur-flip-51: 7
+blur-flip-52: 7
+blur-flip-53: 7
+blur-flip-54: 7
+blur-flip-55: 7
+blur-flip-56: 7
+blur-flip-57: 7
+blur-flip-58: 7
+blur-flip-59: 7
+blur-flip-60: 7
+blur-flip-61: 7
